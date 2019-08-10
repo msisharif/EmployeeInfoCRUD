@@ -1,4 +1,5 @@
 # EmployeeInfoCRUD
+A CRUD Application for Employee Information Using Angular.js, Node.js and MongoDB.
 
 # Screenshots
 
