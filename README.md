@@ -1,5 +1,5 @@
 # EmployeeInfoCRUD
-A CRUD Application for Employee Information Using Angular.js, Node.js and MongoDB.
+A CRUD Application for Employee Information Using Angular4.js, Node.js and MongoDB.
 
 # Screenshots
 
